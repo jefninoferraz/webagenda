@@ -1,0 +1,13 @@
+# webagenda
+
+Um projeto webagenda
+
+### Install
+...
+$ pip install -r requirements.txt
+...
+
+### Run
+...
+$ falsk --app app run
+...
