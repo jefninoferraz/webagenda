@@ -9,5 +9,5 @@ $ pip install -r requirements.txt
 
 ### Run
 ...
-$ falsk --app app run
+$ flask --app app run
 ...
